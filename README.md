@@ -1,9 +1,17 @@
 # Projeto OpenAI Images
 
 Este é um projeto para gerar imagens usando OpenAI e Streamlit.
+--
 
-![Texto Alternativo da Imagem](images/image_gen.png)
+<p align="center">
+  <img src="images/text_gen.png" alt="Texto Alternativo da Imagem" />
+</p>
 
+<p align="center">
+  <img src="images/image_gen.png" alt="Texto Alternativo da Imagem" />
+</p>
+
+--
 
 ## Estrutura do Projeto
 
