@@ -4,6 +4,7 @@ Este é um projeto para gerar imagens usando OpenAI e Streamlit.
 
 ## Estrutura do Projeto
 
+```
 openai-images/
   ├── src/
   │   ├── app/
@@ -12,7 +13,8 @@ openai-images/
   │   └── requirements.txt
   ├── Dockerfile
   └── other_files...
-
+````
+```
 - `app/`: Pasta contendo o código da aplicação.
   - `utils/`: Pasta com os pacotes de utilitários.
 - `docker/`: Contém o Dockerfile e outros arquivos relacionados ao Docker.
