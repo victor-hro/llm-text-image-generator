@@ -2,6 +2,9 @@
 
 Este é um projeto para gerar imagens usando OpenAI e Streamlit.
 
+![Texto Alternativo da Imagem](images/image_gen.png)
+
+
 ## Estrutura do Projeto
 
 ```
